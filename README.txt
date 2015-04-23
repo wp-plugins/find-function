@@ -19,6 +19,8 @@ Check the screenshots!
 
 The plugin use `ReflectionFunction` and `ReflectionClass` of PHP5 to find this info.  
 
+GitHub: [https://github.com/Mte90/WP-Find-Function](https://github.com/Mte90/WP-Find-Function)
+
 == Installation ==
 
 1. Navigate to the 'Add New' in the plugins dashboard
